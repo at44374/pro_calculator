@@ -1,6 +1,6 @@
 # pro_calculator
 
-This is a pro_calculator and it is like ios calculatot
+This is a pro_calculator and it is like ios calculatotr
 
 ## Tips
 
